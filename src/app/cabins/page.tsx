@@ -1,4 +1,4 @@
-import type { ICabin } from '@/types/cabin'
+import type { ICabin } from '@/types'
 import CabinCard from '@/app/_components/CabinCard'
 
 export default function Page() {
