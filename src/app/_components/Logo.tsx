@@ -1,4 +1,4 @@
-import LogoImage from '@/app/assets/logo.png'
+import LogoImage from '@/assets/logo.png'
 import Image from 'next/image'
 import Link from 'next/link'
 
