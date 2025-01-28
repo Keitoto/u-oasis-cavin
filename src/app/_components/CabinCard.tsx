@@ -1,4 +1,4 @@
-import type { ICabin } from '@/types/cabin'
+import type { ICabin } from '@/types'
 import { UserIcon } from 'lucide-react'
 
 interface Props {
