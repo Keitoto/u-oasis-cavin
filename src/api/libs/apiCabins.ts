@@ -1,5 +1,5 @@
 import type { ICabin } from '@/types'
-import { supabase } from '@/api/libs/supabase'
+import { supabase } from '@/app/libs/supabase'
 
 export async function getCabins() {
   try {

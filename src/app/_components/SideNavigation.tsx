@@ -1,4 +1,5 @@
 import SignOutButton from '@/app/_components/SignOutButton'
+import Uploader from '@/app/data/Uploader'
 import {
   CalendarDaysIcon,
   HomeIcon,
@@ -42,6 +43,10 @@ function SideNavigation() {
         <li className="mt-auto">
           <SignOutButton />
         </li>
+        <li className="mt-auto">
+          <Uploader />
+        </li>
+
       </ul>
     </nav>
   )
